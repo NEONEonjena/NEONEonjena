@@ -1,7 +1,7 @@
 -🌟 Hi there! I'm @NEONEonjena
 - 🧠 Passionate about Full-Stack Development
-- 🌱 Currently diving into PHP, TypeScript, and C#
-- 🧰 Exploring frameworks like CodeIgniter, Laravel, Angular, and .NET
+- 🌱 Currently diving into Javascript, PHP, TypeScript, and C#
+- 🧰 Exploring frameworks like Nodejs, Expressjs, CodeIgniter, Laravel, Angular, and .NET
 - 📫 Feel free to reach out via DMs or drop a comment—always happy to connect!
 
 <!---
