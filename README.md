@@ -18,7 +18,7 @@ const maria = {
         databases: ["MySQL", "PostgreSQL"],
         tools: ["Git", "VS Code", "Visual Studio", "Postman", "Docker"]
     },
-    currentlyLearning: "Descubriendo cómo hacer que el código se explique solo 🧙‍♀️"
+    currentlyLearning: "Descubriendo cómo hacer que el código se explique solo 🧙‍♀️",
     funFact: "Aprender una línea hoy, dominar el stack mañana 💻"
 };
 ```
