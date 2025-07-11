@@ -15,7 +15,7 @@ const maria = {
             js: ["Node.js", "Express.js"],
             csharp: [".NET Core", ".NET Framework"]
         },
-        databases: ["MySQL", "PostgreSQL"],
+        databases: ["MySQL"],
         tools: ["Git", "VS Code", "Visual Studio", "Postman", "Docker"]
     },
     currentlyLearning: "Descubriendo cómo hacer que el código se explique solo 🧙‍♀️",
